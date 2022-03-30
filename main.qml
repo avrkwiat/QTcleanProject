@@ -4,5 +4,7 @@ C++ project. */
 import QtQuick
 import content
 
+
 App {
+
 }

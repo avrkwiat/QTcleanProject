@@ -12,5 +12,6 @@
         <file>qml/asset_imports/Quick3DAssets/Cube/Cube.qml</file>
         <file>qml/asset_imports/Quick3DAssets/Cube/qmldir</file>
         <file>qml/asset_imports/Quick3DAssets/Cube/meshes/cube.mesh</file>
+        <file>qml/imports/OnlyGUI/Values.qml</file>
     </qresource>
 </RCC>
